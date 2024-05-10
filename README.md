@@ -39,3 +39,11 @@ Este programa Java consulta a API pública do GitHub para obter informações so
   ## ExerciseDivision 🧮
   ![image](https://github.com/franciscgg/practiceTry-Catch/assets/113110382/d43518af-b5de-475b-90d7-c6f20879baee)
   ![image](https://github.com/franciscgg/practiceTry-Catch/assets/113110382/c07d7cd1-8556-4f38-9b9b-db58fe594d50)
+
+  ### 🚀 Tecnologias
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
+</div>
+
+## 💼 Linkedin
+### link: [Francisco Hélio](https://www.linkedin.com/in/francisco-helio/)
